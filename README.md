@@ -1,6 +1,6 @@
 # Hey, I'm Dheer 👋
 
-> Hobbyist tinkerer from Delhi, India — I build things that make everyday life a little smarter.
+> Hobbyist tinkerer — I build things that make everyday life a little smarter.
 
 I spend my free time connecting APIs that weren't meant to talk to each other, flashing custom ROMs, and automating stuff around the house. If it can be controlled from a URL, I'll find a way.
 
