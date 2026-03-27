@@ -37,7 +37,7 @@ A phone-first home automation hub deployed on Vercel. No dedicated server, no al
 ### 🔗 [go-url](https://github.com/DheerCodes/go-url) — Personal URL Shortener
 A fast, password-protected URL shortener running entirely on Cloudflare's free tier. No server, no database bill.
 
-- 🔀 Custom slugs including full path support — e.g. `go.yourdomain.com/tv/ch1.m3u8`
+- 🔀 Custom slugs including full path support — e.g. `go.yourdomain.com/docs/hello.docs`
 - 📊 Click tracking on every redirect
 - ✏️ Edit slug, destination URL, and title without losing click history
 - 🔒 Password-protected dashboard — API auth enforced server-side
